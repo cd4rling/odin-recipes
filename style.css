@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+h1 {
+    color: darkolivegreen;
+}
+
+.headerPic {
+    width: auto;
+    height: 300px;
+}
+
